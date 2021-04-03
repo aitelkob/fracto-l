@@ -3,7 +3,14 @@
 
 ## Fract'ol
 
-<img src="resources/.png" width="350" />
+<table style="width:100%">
+  <tr>
+    <td><img src="resources/1.png"style="width:100px;height:50px;"></td>
+    <td><img src="resources/1.png"style="width:100px;height:50px;"></td>
+    <td><img src="resources/1.png"style="width:100px;height:50px;"></td>
+  </tr>
+</table>
+<img src="resources/1.png" width="350"/>
 
 This project seeks to create a small fractal exploration program.
 The program has 8 different types of fractals, in which some vary with the
