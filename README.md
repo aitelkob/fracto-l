@@ -38,7 +38,6 @@ Run the following commands:
 ### Executing
 
 To execute the program:
-<img src="resources/12.png"style="width:100px;height:50px;">
 
 `./fractol <fractal-number>`
 
@@ -58,7 +57,7 @@ Try running the following:
 
 **Usage message and controls:**
 
-<img src="resources/f.png" width="400" />
+<img src="resources/12.png" width="400" />
 
 **Program running:**
 
