@@ -61,8 +61,10 @@ Try running the following:
 
 **Program running:**
 
-<img src="resources/fr.png" width="550" />
+<img src="resources/fractol1.png" width="550" />
 
-<img src="resources/fractol-screenshot03.png" width="550" />
+<img src="resources/fractol2.png" width="550" />
 
-<img src="resources/fractol-screenshot04.png" width="550" />
+<img src="resources/fractol3.png" width="550" />
+
+<img src="resources/fractol4.png" width="550" />
