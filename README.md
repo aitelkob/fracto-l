@@ -1,7 +1,11 @@
 
-# École 42
+# Fract'ol
 
-## Fract'ol
+This project seeks to create a small fractal exploration program.
+The program has 6 different types of fractals, in which some vary with the
+mouse. Using the mouse, one can also zoom in and zoom out, change colors, and
+reset the fractals to the default values. There's also a play of color to feel
+the depth of each fractal.
 
 <table style="width:100%">
   <tr>
@@ -15,13 +19,6 @@
     <td><img src="resources/6.png"style="width:100px;height:50px;"></td>
   </tr>
 </table>
-<img src="resources/1.png" width="350"/>
-
-This project seeks to create a small fractal exploration program.
-The program has 8 different types of fractals, in which some vary with the
-mouse. Using the mouse, one can also zoom in and zoom out, change colors, and
-reset the fractals to the default values. There's also a play of color to feel
-the depth of each fractal.
 
 ## Getting Started
 
@@ -41,6 +38,7 @@ Run the following commands:
 ### Executing
 
 To execute the program:
+<img src="resources/12.png"style="width:100px;height:50px;">
 
 `./fractol <fractal-number>`
 
