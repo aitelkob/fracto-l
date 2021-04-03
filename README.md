@@ -47,11 +47,11 @@ To execute the program:
 
 Try running the following:
 
-`./fractol mandelbrot`
+`./fractol 1`
 
-`./fractol julia`
+`./fractol 2`
 
-`./fractol sphere`
+`./fractol 3`
 
 ## Screenshots
 
