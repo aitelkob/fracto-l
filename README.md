@@ -6,8 +6,13 @@
 <table style="width:100%">
   <tr>
     <td><img src="resources/1.png"style="width:100px;height:50px;"></td>
-    <td><img src="resources/1.png"style="width:100px;height:50px;"></td>
-    <td><img src="resources/1.png"style="width:100px;height:50px;"></td>
+    <td><img src="resources/2.png"style="width:100px;height:50px;"></td>
+    <td><img src="resources/3.png"style="width:100px;height:50px;"></td>
+  </tr>
+<tr>
+    <td><img src="resources/4.png"style="width:100px;height:50px;"></td>
+    <td><img src="resources/5.png"style="width:100px;height:50px;"></td>
+    <td><img src="resources/6.png"style="width:100px;height:50px;"></td>
   </tr>
 </table>
 <img src="resources/1.png" width="350"/>
